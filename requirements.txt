@@ -1,0 +1,8 @@
+flask
+flask_cors
+cx_Oracle
+jsonify
+
+
+
+oracle.fiap.com.br:1521
